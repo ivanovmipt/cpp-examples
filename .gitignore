@@ -2,3 +2,5 @@
 .vscode
 *build*
 playground.cpp
+*.out
+*.i

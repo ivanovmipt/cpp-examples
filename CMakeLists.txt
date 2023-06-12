@@ -3,4 +3,4 @@ project(examples)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(examples template_metaprog.cpp)
+add_executable(examples playground.cpp)
